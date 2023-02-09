@@ -1,7 +1,7 @@
 - 👋 **Hi, My name is [Sumit Kutty](https://www.linkedin.com/in/sumitkutty)**
 <br />
 
-- 💻 **I am a machine learning practitioner with primal interest in Computer Vision and Deep Learning**
+- 💻 **I am a Computer Vision Engineer with primal interest in Computer Vision and Deep Learning**
 <br />
 
 - 📝 **I’m currently learning various Deep Learning Architectures, image/video processing techniques, and their impact on learning algorithms**
