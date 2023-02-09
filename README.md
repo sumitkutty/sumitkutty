@@ -1,7 +1,7 @@
 - 👋 **Hi, My name is [Sumit Kutty](https://www.linkedin.com/in/sumitkutty)**
 <br />
 
-- 💻 **I am a Computer Vision Engineer**
+- 💻 **I am a Computer Vision Engineer with primary interest in writing low-latency, scalable computer vision algorithms**
 <br />
 
 - 📝 **I’m currently working on Deep Learning Architectures, image/video processing techniques, and their impact on learning algorithms**
